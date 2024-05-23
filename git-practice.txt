@@ -1,4 +1,8 @@
 Hi I am Oshim.
 I have a pet cat.
+<<<<<<< HEAD
 Her Name is Popo.
 He is 0.3 Years Old.
+=======
+Her Name is Popo.
+>>>>>>> fb239c3088349b13cb159778533e13099133aeb1
