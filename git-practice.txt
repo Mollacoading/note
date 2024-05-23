@@ -1,1 +1,4 @@
-Hi I am Oshim
+Hi I am Oshim.
+I have a pet cat.
+Her Name is Popo.
+He is 0.3 Years Old.
